@@ -1,0 +1,2 @@
+channels/*/manifest.json -text
+channels/*/manifest.sig -text
